@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Stuvsta Elektriska AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '070-882 29 90',
 	'telefon_tel'    => '+46708822990',
 	'ort'            => 'Huddinge',
